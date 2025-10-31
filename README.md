@@ -3,6 +3,9 @@
 
 CausalTraj is a causal likelihood model for coherent multi-agent trajectory generation.
 
+<img src="https://github.com/causaltraj/causal-traj/blob/main/assets/sample_0.gif" width="400"><img src="https://github.com/causaltraj/causal-traj/blob/main/assets/sample_1.gif" width="400">
+
+
 Environment: Python 3.12, CUDA 12.8 \
 Hardware used: Single A100 GPU
 
