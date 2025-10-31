@@ -1,0 +1,8 @@
+test:
+  num_paths: 20
+  prefix_length: 10
+  max_length: 20
+  temperature: 1.0
+  feet2metre: true
+  num_id_to_save: 128
+  save_dir: ~/samples/nba/test_samples
